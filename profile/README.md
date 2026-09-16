@@ -29,9 +29,9 @@ Noir Studios is a development studio building several projects at once, from rol
 </div>
 
 | پروژه · Project | توضیح · Description |
-|---|---|
-| [![Retro Community](https://img.shields.io/badge/Retro%20Community-000000?style=for-the-badge)](https://github.com/NoirStudiosDev/Retro-Community) | یه سرور رول‌پلی FiveM. · A FiveM roleplay server, resources, configs and full server backup. |
-| [![CNor](https://img.shields.io/badge/CNor-5fe0a8?style=for-the-badge)](https://cnorapp.github.io/) | تماشای همزمان فیلم و سریال با دوستان. · Watch movies and shows together with friends, in sync. |
+|:---:|---|
+| [![Retro Community](https://img.shields.io/badge/Retro%20Community-d6409f?style=flat)](https://github.com/NoirStudiosDev/Retro-Community) | یه سرور رول‌پلی FiveM. · A FiveM roleplay server, resources, configs and full server backup. |
+| [![CNor](https://img.shields.io/badge/CNor-5fe0a8?style=flat)](https://cnorapp.github.io/) | تماشای همزمان فیلم و سریال با دوستان. · Watch movies and shows together with friends, in sync. |
 
 <div align="center">
 
