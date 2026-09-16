@@ -28,7 +28,9 @@ Noir Studios is a development studio building several projects at once, from rol
 
 </div>
 
-<table width="100%">
+<div align="center">
+
+<table width="85%">
 <colgroup>
 <col width="20%">
 <col width="80%">
@@ -46,6 +48,8 @@ Noir Studios is a development studio building several projects at once, from rol
 <td>تماشای همزمان فیلم و سریال با دوستان. · Watch movies and shows together with friends, in sync.</td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
